@@ -1,0 +1,15 @@
+https://alpha-prv.picowork.com/
+qatest@yopmail.com
+bobobo
+Chrome
+51.0
+http://bsuser26076:aQs2qkDbfKLxhgGf9U6q@hub.browserstack.com:80/wd/hub
+cloudbook(self)
+invite4contactsintocowork(self)
+filesincowork(self)
+publicchat(self)
+privatechat(self)
+minifycowork(self)
+filesindesk(self)
+invitenewcontacts(self)
+changepw(self)
